@@ -1,4 +1,4 @@
-# Desafio da Especialização de Data Science do programa Alura | Oracle ONE - Oracle Next Education.
+# Desafio da Especialização de Data Science do Programa Alura | Oracle ONE - Oracle Next Education.
 ## Desafio de Data Science: Análise Comparativa de Desempenho Varejista
 
 Este projeto documenta a análise de desempenho de quatro unidades de loja (`Loja_1`, `Loja_2`, `Loja_3` e `Loja_4`) com o objetivo final de identificar a unidade com o **pior desempenho geral** para uma decisão estratégica de venda.
